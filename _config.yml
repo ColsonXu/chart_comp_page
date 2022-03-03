@@ -28,7 +28,8 @@ url: "https://colsonxu.github.io/chart_comp_page/" # the base hostname & protoco
 github_username:  colsonxu
 
 # Build settings
-theme: pmarsceill/just-the-docs
+# theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
