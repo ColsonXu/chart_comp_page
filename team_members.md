@@ -6,7 +6,8 @@ permalink: /team-members/
 
 ## Team Members
 
-- Prakhar Gupta
 - Colson Xu
+- Prakhar Gupta
 - Urjita Bedekar
+- Vineet Singh
 
