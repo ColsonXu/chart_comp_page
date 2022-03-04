@@ -23,7 +23,7 @@ email: colson.xu@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   GitHub Page for ICPR 2022 CHART Competition.
 domain: "colsonxu.github.io"
-baseurl: "/chart_comp_page" # the subpath of your site, e.g. /blog
+baseurl: "/chart_comp_page/" # the subpath of your site, e.g. /blog
 url: "https://colsonxu.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: colsonxu
 
