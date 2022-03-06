@@ -10,4 +10,4 @@ permalink: /team-members/
 - Prakhar Gupta
 - Urjita Bedekar
 - Vineet Singh
-
+- Leo Liu
